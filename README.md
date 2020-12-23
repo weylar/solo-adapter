@@ -1,4 +1,7 @@
 # solo-adapter
+[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
+[![](https://jitpack.io/v/weylar/solo-adapter.svg)](https://jitpack.io/#weylar/solo-adapter)
+
 Solo Adapter is a single view type adapter for recycler view in android.
 
 ### Installation
